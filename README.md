@@ -36,7 +36,7 @@ To help marketing teams evaluate influencer platform efficiency and optimize bud
 ## 📁 Files Included
 
 - <a href="https://github.com/SowmallyaM/Social-Media-Marketing-Analysis/blob/main/Social%20media%20marketing.pbix">`.pbix` dashboard file</a>
-- Screenshots of filtered dashboards
+- <a href="https://github.com/SowmallyaM/Social-Media-Marketing-Analysis/tree/main/Dataset">All the dataset</a>
 - <a href="https://github.com/SowmallyaM/Social-Media-Marketing-Analysis/blob/main/Executive%20Summary.pdf">Executive summary</a>
 
 ---
@@ -53,10 +53,4 @@ To help marketing teams evaluate influencer platform efficiency and optimize bud
 - DAX for calculated measures
 - CSV-based data model with relationships
 
----
-
-## 📌 Status
-
-✅ Completed and documented for portfolio  
-📬 Feel free to fork or use this as a Power BI case study!
 
