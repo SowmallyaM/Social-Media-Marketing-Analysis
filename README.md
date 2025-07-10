@@ -35,15 +35,15 @@ To help marketing teams evaluate influencer platform efficiency and optimize bud
 
 ## 📁 Files Included
 
-- `.pbix` dashboard file
+- <a href="https://github.com/SowmallyaM/Social-Media-Marketing-Analysis/blob/main/Social%20media%20marketing.pbix">`.pbix` dashboard file</a>
 - Screenshots of filtered dashboards
-- Executive summary with annotations
+- <a href="https://github.com/SowmallyaM/Social-Media-Marketing-Analysis/blob/main/Executive%20Summary.pdf">Executive summary</a>
 
 ---
 
 ## 📸 Preview
 
-![Dashboard Preview](Dashboard Screenshot.png)
+![Dashboard Preview](https://github.com/SowmallyaM/Social-Media-Marketing-Analysis/blob/main/Dashboard%20Screenshot.png)
 
 ---
 
