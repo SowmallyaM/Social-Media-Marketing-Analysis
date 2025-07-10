@@ -43,7 +43,7 @@ To help marketing teams evaluate influencer platform efficiency and optimize bud
 
 ## 📸 Preview
 
-![Dashboard Preview](https://github.com/SowmallyaM/Social-Media-Marketing-Analysis/blob/main/Dashboard%20Screenshot.png)
+![Dashboard Preview](https://github.com/SowmallyaM/Social-Media-Marketing-Analysis/blob/main/Dashboard.png)
 
 ---
 
